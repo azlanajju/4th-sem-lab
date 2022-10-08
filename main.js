@@ -1,5 +1,4 @@
 
-    alert('copy function isnt working due to some twxh error. ');
   jSuites.notification({
         name: 'WELCOME',
         message: '           -by azlan',
